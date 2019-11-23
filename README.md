@@ -1,2 +1,2 @@
-# dojo
-Challenge about prevent accidents 
+# liderahealth
+hackathon content and code repository
